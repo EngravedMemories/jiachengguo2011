@@ -19,8 +19,6 @@ Email: j.guo58@vikes.csuohio.edu (Preferred), guojiacheng930@gmail.com
 
 Office Address: FH311, 1960 E 24th St (Fenn Hall), Washkewicz College of Engineering, Cleveland State University, Cleveland, OH, 44115
 
-You can find my CV here: [Jiacheng's Curriculum Vitae](../assets/CV_Jiacheng_Guo.pdf)
-
 Education Experiences
 ======
 1. Doctoral (in progress), [Washkewicz College of Engineering](https://engineering.csuohio.edu/), [Cleveland State University](https://www.csuohio.edu/), Cleveland, USA, 2023 -- Present
