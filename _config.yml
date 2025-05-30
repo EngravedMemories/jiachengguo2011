@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Jiacheng Guo"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D candidate & Research Assistant in CSU"
