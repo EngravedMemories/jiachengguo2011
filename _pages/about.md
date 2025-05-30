@@ -25,8 +25,8 @@ Education Experiences
 
 2. Master's Degree, [Department of Land Surveying and Geo-Informatics (LSGI)](https://www.polyu.edu.hk/lsgi/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong SAR, China, 2021 -- 2022
 
-3. Bachelor's Degree, Shandong University of Science and Technology, Qingdao, China, 2017 -- 2021
+3. Bachelor's Degree, [Department of Geodesy and Geomatics](https://gc.sdust.edu.cn/), [Shandong University of Science and Technology](https://www.sdust.edu.cn/), Qingdao, China, 2017 -- 2021
 
 Research Interests
 ======
-1. To be continued...
+Multi-task Learning, Mathematical Optimization, Model Compression, Federated Learning, Computer Vision, Deep Learning and Machine Learning, Smart Cities, Smart Transportation, GIS
