@@ -15,7 +15,7 @@ Advisors: Dr. Tianyun ZHANG and Dr. Hongkai YU
 
 Tel: (+1) 216-315-8467, (+852) 56074777
 
-Email: j.guo58@vikes.csuohio (Preferred), guojiacheng930@gmail.com
+Email: j.guo58@vikes.csuohio.edu (Preferred), guojiacheng930@gmail.com
 
 A data-driven personal website
 ======
